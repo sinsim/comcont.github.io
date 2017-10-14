@@ -1,1 +1,1 @@
-*:focus{outline:0!important}.tutorial{display:none}.whitespace{height:20px}a.contrast-text{color:darkblue}a.navbar-brand>small{color:gray;font-size:80%}.glyphicon{font-size:85%}
+:focus{outline:0!important}.tutorial{display:none}.whitespace{height:20px}a.contrast-text{color:#00008b}a.navbar-brand>small{color:gray;font-size:80%}.glyphicon{font-size:85%}input[type=checkbox]{transform:scale(1.3);padding:10px}.checkbox-text{font-size:130%}
